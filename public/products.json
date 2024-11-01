@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "product_name": "Cotton T-Shirt",
+    "quantity": 120,
+    "manufacture_country": "Bangladesh",
+    "product_description": "Soft and comfortable cotton t-shirt available in various colors.",
+    "tag": "tshirt, cotton, casual",
+    "brand": "ComfortWear",
+    "rating": 4.5,
+    "image_url": "https://i.postimg.cc/fRDzsqXs/pexels-sebastiaan9977-1304647.jpg"
+  },
+  {
+    "id": 2,
+    "product_name": "Slim Fit Jeans",
+    "quantity": 80,
+    "manufacture_country": "Vietnam",
+    "product_description": "Stretchable slim fit jeans with a stylish look and durable quality.",
+    "tag": "jeans, slim, denim",
+    "brand": "DenimPro",
+    "rating": 4.7,
+    "image_url": "https://i.postimg.cc/ncvF6fXT/pexels-mahe-haroutinian-322834-1804075.jpg"
+  },
+  {
+    "id": 3,
+    "product_name": "Leather Jacket",
+    "quantity": 50,
+    "manufacture_country": "Italy",
+    "product_description": "Premium leather jacket with a modern cut and classic design.",
+    "tag": "jacket, leather, winter",
+    "brand": "UrbanRider",
+    "rating": 4.9,
+    "image_url": "https://i.postimg.cc/G3ThxyrW/leather-jacket.jpg"
+  },
+  {
+    "id": 4,
+    "product_name": "Floral Summer Dress",
+    "quantity": 65,
+    "manufacture_country": "India",
+    "product_description": "Light and breezy floral summer dress, perfect for casual outings.",
+    "tag": "dress, floral, summer",
+    "brand": "BreezyStyle",
+    "rating": 4.4,
+    "image_url": "https://i.postimg.cc/hvmDDHpD/Floral-Summer-Dress.jpg"
+  },
+  {
+    "id": 5,
+    "product_name": "Woolen Sweater",
+    "quantity": 40,
+    "manufacture_country": "Nepal",
+    "product_description": "Warm woolen sweater crafted with soft and high-quality wool.",
+    "tag": "sweater, wool, winter",
+    "brand": "MountainWear",
+    "rating": 4.6,
+    "image_url": "https://i.postimg.cc/tTZykK03/Woolen-Sweater.jpg"
+  },
+  {
+    "id": 6,
+    "product_name": "Silk Scarf",
+    "quantity": 150,
+    "manufacture_country": "China",
+    "product_description": "Luxurious silk scarf with elegant patterns and smooth texture.",
+    "tag": "scarf, silk, accessories",
+    "brand": "Elegance",
+    "rating": 4.8,
+    "image_url": "https://i.postimg.cc/2SGzSdFZ/Silk-Scarf.jpg"
+  },
+  {
+    "id": 7,
+    "product_name": "Running Shoes",
+    "quantity": 100,
+    "manufacture_country": "USA",
+    "product_description": "Lightweight running shoes with superior cushioning and breathability.",
+    "tag": "shoes, running, sports",
+    "brand": "SprintMax",
+    "rating": 4.7,
+    "image_url": "https://i.postimg.cc/KYYmkKJs/Running-Shoes.jpg"
+  },
+  {
+    "id": 8,
+    "product_name": "Cargo Pants",
+    "quantity": 90,
+    "manufacture_country": "Pakistan",
+    "product_description": "Durable cargo pants with multiple pockets for everyday use.",
+    "tag": "pants, cargo, casual",
+    "brand": "AdventureGear",
+    "rating": 4.3,
+    "image_url": "https://i.postimg.cc/ht1G7Rgh/Cargo-Pants.jpg"
+  },
+  {
+    "id": 9,
+    "product_name": "Hooded Sweatshirt",
+    "quantity": 110,
+    "manufacture_country": "Bangladesh",
+    "product_description": "Comfortable hooded sweatshirt with a cozy fleece lining.",
+    "tag": "sweatshirt, hoodie, casual",
+    "brand": "ChillWear",
+    "rating": 4.6,
+    "image_url": "https://i.postimg.cc/Yqc2nCCh/Hooded-Sweatshirt.jpg"
+  },
+  {
+    "id": 10,
+    "product_name": "Formal Blazer",
+    "quantity": 30,
+    "manufacture_country": "Turkey",
+    "product_description": "Tailored formal blazer for a sharp and professional look.",
+    "tag": "blazer, formal, business",
+    "brand": "SharpLook",
+    "rating": 4.8,
+    "image_url": "https://i.postimg.cc/j5mqrs63/Formal-Blazer.jpg"
+  }
+]
