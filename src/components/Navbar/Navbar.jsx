@@ -1,12 +1,13 @@
-import eLogo from '../../assets/e-shopping-logo.png'
+import { Link } from "react-router-dom";
+import eLogo from "../../assets/e-shopping-logo.png";
 const Navbar = () => {
   return (
     <div className="backdrop-blur-3xl bg-slate-700 sticky top-0 z-50">
       <div className="navbar container mx-auto  py-4">
         <div className="flex-1">
-          <a className="flex items-center font-bold text-2xl">
+          <Link to="/" className="flex items-center font-bold text-2xl">
             <img className="w-9" src={eLogo} alt="" />E Shopping
-          </a>
+          </Link>
         </div>
         <div className="flex-none">
           <div className="dropdown dropdown-end">
